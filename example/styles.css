@@ -11,17 +11,6 @@ z-index: 10; }
   overflow: auto;
 }
 
-.leaflet-control-layers:after {
-  content: "Turn on layers";
-  display: block;
-  color: black;
-  background-color: white;
-  font-size: 16px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  margin-left: 70px;
-}
-
 .leaflet-control-layers-toggle {
   width: 44px;
   height: 44px;
